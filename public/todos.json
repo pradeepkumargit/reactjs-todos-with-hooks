@@ -1,0 +1,14 @@
+[
+    {
+      "text": "Learn about React Hooks",
+      "status": "Completed"
+    },
+    {
+      "text": "Meet with friend",
+      "status": "In Progress"
+    },
+    {
+      "text": "Build todo app",
+      "status": "Active"
+    }
+]

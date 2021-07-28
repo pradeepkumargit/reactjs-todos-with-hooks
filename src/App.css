@@ -1,0 +1,51 @@
+.app {
+  padding: 30px;
+  height: 100vh;
+}
+
+.todo-list {
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 400px;
+}
+
+.todo {
+  background: #fff;
+  padding: 3px 10px;
+  font-size: 12px;
+  margin-bottom: 6px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.task {
+  margin-bottom: 15px;
+}
+.task-heading {
+  font-size: 12px;
+  margin-right: 10px;
+}
+.light-bg {
+  background-color: #fff;
+  color: #000;
+}
+
+.dark-bg {
+  background-color: #000;
+  color: #fff;
+}
+
+.light-todo-bg {
+  background-color: #fff;
+  color: #000;
+}
+
+.dark-todo-bg {
+  background-color: rgb(126, 126, 126);
+  color: #fff;
+}
+.theme-switcher {
+  margin-left: 3px;
+  margin-bottom: 10px;
+}
